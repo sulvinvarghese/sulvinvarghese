@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sulvin Varghese 👋</h1>
+<h1 align="center">Hi, I'm Sulvin Varghese </h1>
 <p align="center">Backend Developer • Blockchain Engineer • MSc Cyber Security </p>
 
 ---
@@ -53,11 +53,11 @@ JIRA | Confluence | Agile | Scrum
 Led backend development for Hero MotoCorp’s blockchain-based vehicle lifecycle tracking system (Hero Digital Passport). Integrated AWS Lambda, S3, and DynamoDB with Hyperledger Fabric to create a production-ready solution. Designed secure REST APIs and optimized serverless data flows across stakeholders.
 
 **🔗 Blockchain Consultant – Kottackal Business Solutions Pvt Ltd.**  
-*July 2020 – April 2023*  
+*July 2020 – April 2022*  
 Architected decentralized applications like Upay, SurePay, and ADBPay Events. Built Node.js microservices integrated with Ethereum smart contracts. Developed ERC20 tokens, multisig flows, IPFS-based content delivery, and CI/CD pipelines.
 
 **💡 Associate Consultant – Kottackal Business Solutions Pvt Ltd.**  
-*Jan 2019 – Aug 2020*  
+*Jan 2019 – July 2020*  
 Built full-stack DApps (PeerFund, Sports) involving tokenized access, MongoDB backends, Web3.js integration, and Solidity contract interactions.
 
 **👨‍💻 Consultant Trainee – Kottackal Business Solutions Pvt Ltd.**  
