@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sulvin Varghese 👋</h1>
-<p align="center">Backend Developer • Blockchain Engineer • MSc Cyber Security (Distinction)</p>
+<p align="center">Backend Developer • Blockchain Engineer • MSc Cyber Security </p>
 
 ---
 
@@ -8,6 +8,9 @@
 I'm a backend and blockchain engineer with over 5 years of experience building secure, scalable systems for enterprise and decentralized environments. Recently, I completed my MSc in Cyber Security from Coventry University with Distinction, gaining hands-on experience in ethical hacking, threat modeling, and secure application design.
 
 My work spans a wide range of domains — from cloud-native backend services and blockchain smart contracts to AI-powered intrusion detection systems. I love turning complex problems into elegant solutions, and I thrive in fast-moving environments where impact matters.
+
+You can view more of my work and background on my portfolio:  
+🔗 **[fluffy-salmiakki-faf754.netlify.app](https://fluffy-salmiakki-faf754.netlify.app/)**
 
 ---
 
