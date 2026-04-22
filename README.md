@@ -136,5 +136,5 @@ _(More projects available on [my GitHub profile](https://github.com/sulvinvarghe
 
 ## 📬 Let's Connect
 
-- 📧 Email: [sulvinvarghese@gmail.com](mailto:varghes53@coventry.ac.uk)
+- 📧 Email: [varghes53@coventry.ac.uk](mailto:varghes53@coventry.ac.uk)
 - 💼 LinkedIn: [linkedin.com/in/sulvin-varghese](https://uk.linkedin.com/in/sulvin-varghese)
